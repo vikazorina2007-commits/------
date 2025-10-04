@@ -4,7 +4,6 @@ a = int(input("Введите первое число: "))
 b = int(input("Введите второе число: "))
 
 print("Вы ввели:", a, "и", b)
-result = a + b
-print("Сумма чисел:", result)
-
+result = a - b
+print("Разность чисел:", result)
 
